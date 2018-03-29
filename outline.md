@@ -1,29 +1,32 @@
 # Are My Data Safe?
 
-## Classes of Risk
+## Principles
 
-### Accidental data loss
+**Confidentiality**
 
-|| **Risks** | **Case Studies** | **Strategies** |
-| ----------- | -------------- | -------- |
-| Hardware loss | ... | Routine backup plan |
-| File corruption | ... | Replicated backup |
+Information requires protection from unauthorized disclosure.
 
-### Intentional data loss - bad actors
+**Integrity**
 
-|| **Risks** | **Case Studies** | **Strategies** |
-| ----------- | -------------- | -------- |
-| File access | ... | encryption |
-| File manipulation | ... | checksums |
+Information must be protected from unauthorized, unanticipated, or unintentional modification.
 
-## Privacy and Data Management Implications of Regulatory Compliance
+**Availability**
 
-* What is it?
-* What does it mean re data?
-* Strategies for working within regs
+The system or data must be available for use for intended purposes.
 
-### FERPA
+## A System View
 
-### HIPAA
+|| **Component** | **Strategies & Considerations** ||
+| ----------- | -------------- | ---------- |
+| storage     | replicated, verified backups |
+| access      | physical controls, strong passwords, two factor authentication |
+| transmission| secure transmission |
+| encryption  | file and volume level encryption |
 
-### CUI
+## Regulatory Compliance
+
+* FERPA
+* HIPAA
+* CUI
+* NM State
+* Federal and sponsor regulations
