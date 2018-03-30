@@ -51,5 +51,10 @@ The system or data must be available for use for intended purposes.
 
 ---------------------
 
+| Download this document: [https://unmrds.github.io/bb-security/bb-security.pdf](https://unmrds.github.io/bb-security/bb-security.pdf)
+| Github Repository: [https://github.com/unmrds/bb-security](https://github.com/unmrds/bb-security)
+
+---------------------
+
 | [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 | This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
