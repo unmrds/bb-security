@@ -10,7 +10,7 @@ margin-bottom: .5in
 ...
 
 
-## Principles
+## Principles^[Swanson, M., & National Institute of Standards and Technology (U.S.). (2001). *Security self-assessment guide for information technology systems* (NIST special publication ; Computer security, 800-26; NIST special publication, 800-26; NIST special publication, Computer security.3223114). Gaithersburg, MD: U.S. Dept. of Commerce, Technology Administration, National Institute of Standards and Technology. http://books.google.com/books?id=-AVRAAAAMAAJ]
 
 **Confidentiality**
 
@@ -33,9 +33,6 @@ The system or data must be available for use for intended purposes.
 | transmission| secure transmission |
 | encryption  | file and volume level encryption |
 
-### Reference
-
--Swanson, M., & National Institute of Standards and Technology (U.S.). (2001). *Security self-assessment guide for information technology systems* (NIST special publication ; Computer security, 800-26; NIST special publication, 800-26; NIST special publication, Computer security.3223114). Gaithersburg, MD: U.S. Dept. of Commerce, Technology Administration, National Institute of Standards and Technology. http://books.google.com/books?id=-AVRAAAAMAAJ
 
 
 ## Regulatory Compliance
