@@ -28,6 +28,9 @@ The system or data must be available for use for intended purposes.
 * FERPA
 * HIPAA
 * CUI
-* NM State
+* [ITAR & Export Control](http://researchcompliance.unm.edu/exportcontrol/lawsandgoverningagencies)
+* [NM State](http://164.64.110.239/nmac/parts/title01/01.021.0002.htm)
 * Sponsor requirements
-* [Institutional requirements](https://policy.unm.edu/university-policies/2000/2550.html) (reflecting both regulatory and institutional needs)
+* Institutional requirements (reflecting both regulatory and institutional needs)
+    * [Research Misconduct](http://handbook.unm.edu/policies/section-e/e40.html)
+    * [Information Security](https://policy.unm.edu/university-policies/2000/2550.html)
