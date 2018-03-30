@@ -34,3 +34,5 @@ The system or data must be available for use for intended purposes.
 * Institutional requirements (reflecting both regulatory and institutional needs)
     * [Research Misconduct](http://handbook.unm.edu/policies/section-e/e40.html)
     * [Information Security](https://policy.unm.edu/university-policies/2000/2550.html)
+
+![Intersecting Requirements](Venn.png)
