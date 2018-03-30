@@ -1,12 +1,12 @@
 ---
 title: Are My Data Safe?
 author:
-  - Jonathan Wheeler
-  - Karl Benedict
+  - Jonathan Wheeler^[UNM Research Data Services, jwheel01@unm.edu]
+  - Karl Benedict^[UNM Research Data Services, kbene@unm.edu]
 margin-left: 1in
 margin-right: 1in
-margin-top: .75in
-margin-bottom: .75in
+margin-top: .5in
+margin-bottom: .5in
 ...
 
 
@@ -47,7 +47,7 @@ The system or data must be available for use for intended purposes.
 
 ## A Synthesis
 
-![Intersecting Requirements](Venn.png){width=5in}\ 
+![Intersecting Requirements](Venn.png){width=6.5in}\ 
 
 ---------------------
 
