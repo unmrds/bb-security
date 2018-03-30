@@ -29,4 +29,5 @@ The system or data must be available for use for intended purposes.
 * HIPAA
 * CUI
 * NM State
-* Federal and sponsor regulations
+* Sponsor requirements
+* [Institutional requirements](https://policy.unm.edu/university-policies/2000/2550.html) (reflecting both regulatory and institutional needs)
